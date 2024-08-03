@@ -3,13 +3,13 @@ DataSpark: Illuminating Insights for Global Electronics
 
 This project demonstrates a data analysis pipeline that includes data preprocessing using Python, database management with MySQL, and data visualization using Power BI. The project analyzes sales data to provide insights into revenue, customer behavior, and sales trends.
 
-Table of Contents
-Project Overview
-Features
-Technologies Used
-Data Preprocessing
-Database Management
-Data Visualization
+Table of Contents:
+Project Overview,
+Features,
+Technologies Used,
+Data Preprocessing,
+Database Management,
+Data Visualization,
 
 Project Overview
 This project aims to provide a comprehensive analysis of sales data using a multi-step process that includes:
